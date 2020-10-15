@@ -1,10 +1,10 @@
 # Always-Sorted-Unsigned-Integer-Array
-gnu complier with c++11 is required \n
-To compile run: \n
-    make clean \n 
-    make all \n
-Run using: \n
-    ./main \n
+gnu complier with c++11 is required <br/>
+To compile run: <br/>
+    make clean <br/> 
+    make all <br/>
+Run using: <br/>
+    ./main <br/>
 
 N.B: The class is extended by many debugging statements; however,
 this could be later modified and only use the return values that
